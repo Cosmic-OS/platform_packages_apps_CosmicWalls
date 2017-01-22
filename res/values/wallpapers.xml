@@ -12,11 +12,15 @@
     <item>wallpaper_0</item>
     <item>wallpaper_1</item>
     <item>wallpaper_2</item>
+    <item>wallpaper_3</item>
+    <item>wallpaper_4</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-    <item>Ribbon</item>
-    <item>Teeth</item>
-    <item>V</item>
+    <item>Dark</item>
+    <item>White/Green</item>
+    <item>White/Violet</item>
+    <item>Green Comet</item>
+    <item>Dark/Cyan</item>
     </string-array>
 </resources>

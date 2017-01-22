@@ -7,7 +7,7 @@
  * or at https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-package com.gzr.ValidusWalls;
+package com.cosmic.CosmicWalls;
 
 import android.annotation.SuppressLint;
 import android.app.ProgressDialog;

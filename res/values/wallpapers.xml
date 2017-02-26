@@ -14,6 +14,12 @@
     <item>wallpaper_2</item>
     <item>wallpaper_3</item>
     <item>wallpaper_4</item>
+    <item>wallpaper_5</item>
+    <item>wallpaper_6</item>
+    <item>wallpaper_7</item>
+    <item>wallpaper_8</item>
+    <item>wallpaper_9</item>
+    <item>wallpaper_10</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -22,5 +28,11 @@
     <item>White/Violet</item>
     <item>Green Comet</item>
     <item>Dark/Cyan</item>
+    <item>Cosmorise</item>
+    <item>Astronaut Painting</item>
+    <item>Sun/Graphics</item>
+    <item>Saturn/Graphics</item>
+    <item>Star Trails</item>
+    <item>Yellow/Pink/Violet</item>
     </string-array>
 </resources>

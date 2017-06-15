@@ -8,7 +8,7 @@
 -->
 
 <resources>
-    <string name="app_name">Paranoid Papers</string>
+    <string name="app_name">Cosmic Walls</string>
     <string name="applying">Applying selected wallpaper</string>
     <string name="longpress_info">Long press to apply wallpaper</string>
     <string name="wallpaper_instructions">Set wallpaper</string>

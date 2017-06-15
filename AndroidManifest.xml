@@ -8,7 +8,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.paranoid.ParanoidPapers"
+    package="com.cosmic.CosmicWalls"
     android:versionCode="23"
     android:versionName="2.3" >
 

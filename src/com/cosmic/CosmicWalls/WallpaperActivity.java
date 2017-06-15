@@ -7,7 +7,7 @@
  * or at https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-package com.paranoid.ParanoidPapers;
+package com.cosmic.CosmicWalls;
 
 import android.app.Activity;
 import android.app.AlertDialog;
